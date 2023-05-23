@@ -1,4 +1,3 @@
-#!/bin/bash
 a="\033[1;31m"
 b="\033[1;32m"
 d="\033[1;33m"
@@ -6,6 +5,7 @@ c="\033[1;34m"
 
 clear
                 figlet -f big " Go Hacking " | lolcat
+              echo "                v1.2"
                 echo "         ############################################################"
                 echo -e $d "        ##"  "  Telegram" $a "https://t.me/x0f_3b                        ##"
                 echo "         ##                                                        ##"
