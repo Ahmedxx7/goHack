@@ -4,6 +4,9 @@ Joe Hacking is a tool designed specifically to help beginners in the hacker fiel
 
 I wish you a happy day
 
+
+
+
 [*] install For termux ➪➪ 
 
 
@@ -11,7 +14,7 @@ apt update
 apt upgrade 
 apt install git -y
 
-git clone git clone https://github.com/Ahmedxx7/goHack.git 
+git clone https://github.com/Ahmedxx7/goHack.git 
 
 cd goHack
 
@@ -19,4 +22,21 @@ chmod +x *
 
 bash goHacking.sh 
 
-sooon♡♡
+
+[*] install for kali ➪➪
+
+sudo apt update 
+sudo alt upgrade 
+sudo apt install git
+
+git clone https://github.com/Ahmedxx7/goHack.git 
+
+cd goHack
+
+chmod +x *
+
+bash goHacking.sh 
+
+
+
+
